@@ -1,0 +1,14 @@
+E:\visualstudio\solutions\digit-word convertor\bin\TypeScriptHTMLApp1.dll.config
+E:\visualstudio\solutions\digit-word convertor\bin\TypeScriptHTMLApp1.dll
+E:\visualstudio\solutions\digit-word convertor\bin\TypeScriptHTMLApp1.pdb
+E:\visualstudio\solutions\digit-word convertor\obj\Debug\digit-word convertor.csprojAssemblyReference.cache
+E:\visualstudio\solutions\digit-word convertor\obj\Debug\digit-word convertor.csproj.CoreCompileInputs.cache
+E:\visualstudio\solutions\digit-word convertor\obj\Debug\TypeScriptHTMLApp1.dll
+E:\visualstudio\solutions\digit-word convertor\obj\Debug\TypeScriptHTMLApp1.pdb
+F:\projects\digit-word convertor\bin\TypeScriptHTMLApp1.dll.config
+F:\projects\digit-word convertor\bin\TypeScriptHTMLApp1.dll
+F:\projects\digit-word convertor\bin\TypeScriptHTMLApp1.pdb
+F:\projects\digit-word convertor\obj\Debug\digit-word convertor.csprojAssemblyReference.cache
+F:\projects\digit-word convertor\obj\Debug\digit-word convertor.csproj.CoreCompileInputs.cache
+F:\projects\digit-word convertor\obj\Debug\TypeScriptHTMLApp1.dll
+F:\projects\digit-word convertor\obj\Debug\TypeScriptHTMLApp1.pdb
